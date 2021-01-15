@@ -17,7 +17,10 @@
     "apidoc": "^0.26.0",
 =======
     "apidoc": "^0.25.0",
+<<<<<<< HEAD
 >>>>>>> Update packages and dependencies
+=======
+>>>>>>> d7112f6c54dd96d4b30cc44b348b9c08f5562c22
     "apple-auth": "^1.0.7",
     "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
